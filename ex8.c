@@ -1,3 +1,4 @@
+// 백준 9498번 시험 점수 등급 환산 문제 
 #include <stdio.h>
 
 int main() {
